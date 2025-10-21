@@ -18,7 +18,7 @@ python app.py
 
 ## Citation
 
-if you find our work helpful, please consider cite our work as follows, thanks!
+if you find our work helpful, please consider cite our work as follows, thanks! 
 
 ```
 @article{jia2025geoarena,
@@ -28,3 +28,5 @@ if you find our work helpful, please consider cite our work as follows, thanks!
   year={2025}
 }
 ```
+
+Many thanks to [llm-poor-gpu-arena](https://huggingface.co/spaces/k-mktr/gpu-poor-llm-arena) for being open-sourced. This project is developed based on it.
