@@ -1,6 +1,6 @@
 # GeoArena
 
-This is the code repository for GeoArena
+This is the code repository for the paper "GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization"
 
 ## Install
 
@@ -18,7 +18,7 @@ python app.py
 
 ## Citation
 
-if you find our work helpful, please consider cite our work as follows, thanks! 
+if you find our work helpful, please consider cite our work as follows, thanks!
 
 ```
 @article{jia2025geoarena,
