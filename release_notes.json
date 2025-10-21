@@ -1,0 +1,22 @@
+{
+    "last_updated": "2025-06-28",
+    "notes": [
+      {
+        "date": "2025-06-28",
+        "content": "Added more models. Launched our GeoArena on Hugging Face Spaces."
+      },
+      {
+        "date": "2025-06-10",
+        "content": "Added support for Bradley-Terry (BT) leaderboard using MLE fitting for model scores."
+      },
+      {
+        "date": "2025-06-05",
+        "content": "Introduced image geolocalization battle mode. All matches now include image and prompt history."
+      },
+      {
+        "date": "2025-05-28",
+        "content": "Bug fix: leaderboard properly tracks ties and shows detailed history."
+      }
+    ]
+  }
+  

@@ -1,0 +1,222 @@
+[
+    {
+      "model_name": "GPT-4o",
+      "success": true,
+      "performance": {
+      },
+      "model_info": {
+        "parameter_size": "Unknown",
+        "opensource": "N",
+        "company": "OpenAI"
+      }
+    },
+    {
+        "model_name": "GPT-4o-mini",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "OpenAI"
+        }
+      },
+      {
+        "model_name": "GPT-4.1",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "OpenAI"
+        }
+      },
+      {
+        "model_name": "GPT-4.1-mini",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "OpenAI"
+        }
+      },
+      {
+        "model_name": "GPT-4.1-Nano",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "OpenAI"
+        }
+      },
+      {
+        "model_name": "Gemini-2.5-Pro",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "Google DeepMind"
+        }
+      },
+      {
+        "model_name": "Gemini-2.5-Flash",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "Google DeepMind"
+        }
+      },
+      {
+        "model_name": "Claude-Sonnet-4",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "Anthropic"
+        }
+      },
+      {
+        "model_name": "Claude-Opus-4",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "Unknown",
+          "opensource": "N",
+          "company": "Anthropic"
+        }
+      },
+      {
+        "model_name": "Llama-4-Maverick",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "17B/402B",
+          "opensource": "Y",
+          "company": "Meta"
+        }
+      },
+      {
+        "model_name": "Llama-4-Scout",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "17B/109B",
+          "opensource": "Y",
+          "company": "Meta"
+        }
+      },
+      {
+        "model_name": "Gemma-3-27B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "27B",
+          "opensource": "Y",
+          "company": "Google"
+        }
+      },
+      {
+        "model_name": "Gemma-3-12B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "12B",
+          "opensource": "Y",
+          "company": "Google"
+        }
+      },
+      {
+        "model_name": "Gemma-3-4B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "4B",
+          "opensource": "Y",
+          "company": "Google"
+        }
+      },
+      {
+        "model_name": "Qwen2.5-VL-72B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "72B",
+          "opensource": "Y",
+          "company": "Alibaba"
+        }
+      },
+      {
+        "model_name": "Qwen2.5-VL-32B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "32B",
+          "opensource": "Y",
+          "company": "Alibaba"
+        }
+      },
+      {
+        "model_name": "Qwen2.5-VL-7B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "7B",
+          "opensource": "Y",
+          "company": "Alibaba"
+        }
+      },
+      {
+        "model_name": "Qwen2.5-VL-3B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "3B",
+          "opensource": "Y",
+          "company": "Alibaba"
+        }
+      },
+      {
+        "model_name": "InternVL3-14B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "14B",
+          "opensource": "Y",
+          "company": "OpenGVLab"
+        }
+      },
+      {
+        "model_name": "InternVL3-2B",
+        "success": true,
+        "performance": {
+        },
+        "model_info": {
+          "parameter_size": "2B",
+          "opensource": "Y",
+          "company": "OpenGVLab"
+        }
+      }
+  ]
