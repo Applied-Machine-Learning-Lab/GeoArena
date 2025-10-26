@@ -5,7 +5,7 @@ This is the code repository for the paper "GeoArena: An Open Platform for Benchm
 ## Install
 
 ```
-pip install gradio plotly openai
+pip install gradio plotly openai scikit-learn
 ```
 
 Please config the openai key and base url in `config.py`
