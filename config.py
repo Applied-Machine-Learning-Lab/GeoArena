@@ -6,8 +6,8 @@ import threading
 
 ARENA_NAME = "# GeoArena 🌍"
 
-# Ollama API configuration
-API_URL = 'https://xxx'
+# https://openrouter.ai/ API configuration
+API_URL = 'https://openrouter.ai/api/v1'
 API_KEY = 'sk-xxx'
 HEADERS = {
     "Content-Type": "application/json",
